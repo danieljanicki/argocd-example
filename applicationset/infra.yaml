@@ -8,7 +8,7 @@ key:
       namespace: hello-world-app
       clusterName: test-cluster
       environment: build
-    - givenName: hello-world
+    - givenName: hello-world2
       chart: hello-world
       version: "0.2.0"
       releaseName: hello-world-app
