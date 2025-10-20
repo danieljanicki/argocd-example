@@ -1,0 +1,14 @@
+{
+  "applications": [
+    {
+      "name": "guestbook-app1",
+      "path": "apps/frontend",
+      "namespace": "guestbook-app1-ns"
+    },
+    {
+      "name": "guestbook-app2",
+      "path": "apps/frontend",
+      "namespace": "guestbook-app2-ns"
+    }
+  ]
+}
