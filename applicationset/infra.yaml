@@ -1,0 +1,18 @@
+key:
+  components:
+    - givenName: hello-world
+      chart: hello-world
+      version: "0.2.0"
+      releaseName: hello-world-app
+      repoUrl: "https://ayazuddin007.github.io/Helm3/"
+      namespace: hello-world-app
+      clusterName: test-cluster
+      environment: build
+    - givenName: hello-world
+      chart: hello-world
+      version: "0.2.0"
+      releaseName: hello-world-app
+      repoUrl: "https://ayazuddin007.github.io/Helm3/"
+      namespace: hello-world-app
+      clusterName: dev-cluster
+      environment: dev
